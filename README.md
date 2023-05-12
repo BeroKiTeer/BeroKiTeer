@@ -5,5 +5,5 @@
 
 - 🔭 I’m currently working on code.
 - 🌱 I’m currently learning nodejs.
-- 👯 I’m looking to collaborate on XCPC.
+- 🤩 I'm interested in programming, history, philosophy.
 - 📫 How to reach me:mail to 1377433202@qq.com, QQ 1377433202 , wechat jcsgfwxgs.
